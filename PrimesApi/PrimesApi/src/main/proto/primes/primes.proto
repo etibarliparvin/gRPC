@@ -1,0 +1,11 @@
+syntax = "proto3";
+package primes;
+
+option java_package = "com.promo.primes";
+option java_multiple_files = true;
+
+import "primes/prime.proto";
+
+service PrimesService {
+  rpc calculate(PrimeRequest) returns(stream PrimeResponse);
+}
