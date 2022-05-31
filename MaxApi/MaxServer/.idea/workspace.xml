@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e62f80c-e1be-4542-b2be-47d95a377852" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/src/main/java/average/client/AverageClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/src/main/java/average/server/AverageServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/src/main/java/average/server/AverageServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AvgApi/AvgApi/src/main/proto/average/averaging.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/src/main/java/maximum/server/MaximumServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/src/main/java/maximum/server/MaximumServerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaxApi/src/main/proto/maximum/max.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/calculator/server/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/calculator/server/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/proto/calculator/max/max.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/src/main/java/calculator/client/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MaxClient/MaxClient/src/main/proto/calculator/max/max.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/proto/calculator/max.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SumApi/SumApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SumApi/SumApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/calculator/CalculatorServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/calculator/CalculatorServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/greeting/GreetingServiceGrpc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/grpc/com/proto/greeting/GreetingServiceGrpc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/java/com/proto/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/java/com/proto/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/java/com/proto/greeting/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/build/generated/source/proto/main/java/com/proto/greeting/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/calculator/client/CalculatorClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/calculator/client/CalculatorClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/calculator/server/CalculatorServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/calculator/server/CalculatorServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBaseDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBaseDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFileDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFileDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceImplBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceImplBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$CalculatorServiceStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/calculator/CalculatorServiceGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/Greeting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceBaseDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceBaseDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceBlockingStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceBlockingStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceFileDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceFileDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceFutureStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceFutureStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceImplBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceImplBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceMethodDescriptorSupplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceMethodDescriptorSupplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceStub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$GreetingServiceStub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$MethodHandlers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc$MethodHandlers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/com/proto/greeting/GreetingServiceGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/greeting/client/GreetingClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/greeting/client/GreetingClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/greeting/server/GreetingServerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/out/production/classes/greeting/server/GreetingServerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/calculator/client/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/calculator/client/CalculatorClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/calculator/server/CalculatorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/calculator/server/CalculatorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/greeting/client/GreetingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/greeting/client/GreetingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/greeting/server/GreetingServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/java/greeting/server/GreetingServerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/proto/calculator/calculator.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/proto/calculator/calculator.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/proto/greeting/greeting.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../../grpc-java-course/grpc-java-course/src/main/proto/greeting/greeting.proto" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MaxServer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MaxServer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MaxServer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29vQ8WtFWzi8ZabHeiv0wt4gY4k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-11.0.13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="calculator.server.CalculatorService" />
+      <module name="MaxServer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxServer [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="generateProto" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Gradle.MaxServer [generateProto]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MaxServer [generateProto]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e62f80c-e1be-4542-b2be-47d95a377852" name="Changes" comment="" />
+      <created>1653990919682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653990919682</updated>
+      <workItem from="1653990921586" duration="1959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

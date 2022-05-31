@@ -1,0 +1,17 @@
+syntax = "proto3";
+package average;
+
+option java_package = "com.proto.greeting";
+option java_multiple_files = true;
+
+message AverageRequest {
+  int32 number = 1;
+}
+
+message AverageResponse {
+  double result = 1;
+}
+
+service AverageService {
+  rpc count(stream AverageRequest) returns(AverageResponse);
+}
