@@ -1,0 +1,24 @@
+syntax = "proto3";
+package person;
+
+option java_package = "com.proto.person";
+option java_multiple_files = true;
+
+import "google/protobuf/empty.proto";
+
+message LogRequest {
+  int64 id = 1;
+}
+
+message LogResponse {
+  bool response = 1;
+}
+
+service LogService {
+  rpc logging(LogRequest) returns(LogResponse);
+  //  rpc createBlog(Blog) returns(BlogId);
+  //  rpc readBlog(BlogId) returns(Blog);
+  //  rpc updateBlog(Blog) returns(google.protobuf.Empty);
+  //  rpc deleteBlog(BlogId) returns(google.protobuf.Empty);
+  //  rpc listBlogs(google.protobuf.Empty) returns(stream Blog);
+}

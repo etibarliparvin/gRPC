@@ -1,0 +1,20 @@
+syntax = "proto3";
+package bonus;
+
+option java_package = "com.proto.bonus";
+option java_multiple_files = true;
+
+message AgentRequest {
+  int64 id = 1;
+}
+
+message AgentResponse {
+  string name = 1;
+  int64 age = 2;
+  int64 ticket_count = 3;
+  bool bonus = 4;
+}
+
+service AgentService {
+  rpc move(AgentRequest) returns(AgentResponse);
+}
