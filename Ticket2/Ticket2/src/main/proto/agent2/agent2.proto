@@ -1,0 +1,18 @@
+syntax = "proto3";
+package agent2;
+
+option java_package = "com.proto.agent2";
+option java_multiple_files = true;
+
+message AgentRequest {
+  int64 id = 1;
+}
+
+message AgentResponse {
+  int64 ticket_count = 1;
+  bool hasBonus = 2;
+}
+
+service AgentService {
+  rpc getCount(AgentRequest) returns(AgentResponse);
+}

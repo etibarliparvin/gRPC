@@ -74,11 +74,9 @@ dependencies {
 
     implementation 'io.netty:netty-tcnative-boringssl-static:2.0.52.Final'
     implementation 'net.devh:grpc-server-spring-boot-starter:2.12.0.RELEASE'
-    implementation 'io.grpc:grpc-netty:1.46.0'
     implementation "io.grpc:grpc-netty:${grpcVersion}"
     implementation "io.grpc:grpc-protobuf:${grpcVersion}"
     implementation "io.grpc:grpc-stub:${grpcVersion}"
-
 }
 
 protobuf {

@@ -1,0 +1,17 @@
+syntax = "proto3";
+package agent2;
+
+option java_package = "com.proto.ticket2";
+option java_multiple_files = true;
+
+message TicketRequest {
+  int64 id = 1;
+}
+
+message TicketResponse {
+  bool bonus = 1;
+}
+
+service TicketService {
+  rpc hasBonus(TicketRequest) returns(TicketResponse);
+}

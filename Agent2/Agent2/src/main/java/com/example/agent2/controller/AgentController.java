@@ -3,7 +3,7 @@ package com.example.agent2.controller;
 import com.example.agent2.dto.ResponseDto;
 import com.example.agent2.grpc.AgentClientService;
 import com.example.agent2.repo.AgentRepository;
-import com.proto.agent.AgentResponse;
+import com.proto.agent2.AgentResponse;
 import lombok.RequiredArgsConstructor;
 import nu.studer.sample.tables.records.AgentRecord;
 import org.springframework.http.ResponseEntity;
@@ -30,8 +30,7 @@ public class AgentController {
         AgentRecord record = repository.findById(id);
         dto.setAgentId(record.getId());
         dto.setAge(record.getAge());
-//        dto.setBonus(response.getBonus());
-
+        dto.setBonus(response.getHasBonus());
         return ResponseEntity.ok(dto);
     }
 }
