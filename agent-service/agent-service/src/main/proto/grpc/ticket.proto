@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_package = "com.example.models";
+option java_multiple_files = true;
+
+message TicketProtoRequest {
+  string code = 1;
+  int64 status = 2;
+  int64 issuerAgent = 3;
+}
+
+message TicketProtoResponse {
+  int64 id = 1;
+  string code = 2;
+  int64 status = 3;
+  int64 issuerAgent = 4;
+  int64 creationTime = 5;
+}
+
+service TicketProtoService {
+  rpc createTicket(TicketProtoRequest) returns(TicketProtoResponse);
+}

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="331d3a71-51c9-4453-a749-8edc39c798d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Agent/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Agent2/.idea/Agent2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ticket2/.idea/Ticket2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../agent-service/agent-service/src/main/proto/grpc/agent.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/src/main/java/az/etibarli/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-client/alishev-client/src/main/proto/grpc/GreetingService.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/src/main/java/az/etibarli/GreetingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/src/main/java/az/etibarli/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alishev-server/alishev-server/src/main/proto/grpc/GreetingService.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-client/game-client/src/main/proto/grpc/game.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-server/game-server/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-server/game-server/src/main/java/az/etibarli/gameserver/server/DieStreamingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-server/game-server/src/main/java/az/etibarli/gameserver/server/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-server/game-server/src/main/proto/grpc/game.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/main/java/org/example/server/DieStreamingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/main/java/org/example/server/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/main/java/org/example/server/SnakesAndLaddersMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/main/proto/grpc/bank-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/test/java/org/example/game/client/GameClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snakes-ladders/snakes-ladders/src/test/java/org/example/game/client/GameStateStreamingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/java/org/example/client/BalanceStreamObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/java/org/example/client/BankClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/java/org/example/client/MoneyStreamingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/java/org/example/client/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/java/org/example/client/TransferStreamingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/proto/grpc/GreetingService.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/proto/grpc/bank-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-client/step1-client/src/main/proto/grpc/transfer-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/AccountDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/BankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/CashStreamingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/GrpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/TansferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/java/org/example/server/TransferStreamingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/proto/grpc/GreetingService.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/proto/grpc/bank-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step1-server/step1-server/src/main/proto/grpc/transfer-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-client/step2-client/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/src/main/java/org/example/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/src/main/java/org/example/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step2-server/step2-server/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/src/main/java/org/example/PersonStreamingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-client/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/src/main/java/org/example/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/src/main/java/org/example/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step3-client/step3-server/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/src/main/java/org/example/PersonStreamObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-client/step4-client/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/java/org/example/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/java/org/example/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/java/org/example/PersonStreamRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step4-server/step4-server/src/main/proto/grpc/person-service.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/dto/request/TicketRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/dto/response/TicketResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/entities/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/grpc/TicketServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/mapper/businessMapper/ResponseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/mapper/businessMapper/TicketResponseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/mapper/recordMapper/RecordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/mapper/recordMapper/TicketRecordMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/repository/CrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/repository/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/repository/TicketRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/resource/TicketResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/QueryExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/businessService/ticketBusinessService/TicketBusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/businessService/ticketBusinessService/TicketBusinessServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/jooqService/ticketJooqService/TicketJooqService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/service/jooqService/ticketJooqService/TicketJooqServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/java/com/example/ticketservice/utils/TimeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/proto/grpc/agent.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/resources/db/changelog/000.changelog-master.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ticket-service/ticket-service/src/main/resources/db/changelog/v1/20220714-01-create-ticket-table.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C1BzoX9KnDA49qxKxUyedPtUEu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="331d3a71-51c9-4453-a749-8edc39c798d6" name="Changes" comment="" />
+      <created>1657960475594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657960475594</updated>
+      <workItem from="1657960476772" duration="1359000" />
+      <workItem from="1657962645027" duration="2094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

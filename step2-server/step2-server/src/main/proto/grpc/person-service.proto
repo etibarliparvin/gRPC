@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "az.etibarli.grpc";
+option java_multiple_files = true;
+
+message PersonRequest {
+  string name = 1;
+}
+
+message PersonResponse {
+  int32 id = 1;
+  string name = 2;
+}
+
+service PersonService {
+  // unary
+  rpc savePerson(PersonRequest) returns(PersonResponse);
+}

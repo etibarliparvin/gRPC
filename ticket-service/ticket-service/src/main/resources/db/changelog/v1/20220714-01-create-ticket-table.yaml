@@ -1,0 +1,28 @@
+databaseChangeLog:
+  - changeSet:
+      id: 2022.07.14
+      author: etibarli
+      changes:
+        - createTable:
+            tableName: ticket
+            schemaName: public
+            columns:
+              - column:
+                  name: id
+                  type: bigserial
+                  constraints:
+                    primaryKey: true
+                    primaryKeyName: ticket_pk
+                    nullable: false
+              - column:
+                  name: code
+                  type: varchar(250)
+              - column:
+                  name: status
+                  type: bigint
+              - column:
+                  name: issuer_agent
+                  type: bigint
+              - column:
+                  name: creation_time
+                  type: timestamp
